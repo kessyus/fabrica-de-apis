@@ -1,21 +1,8 @@
-const fs = require('fs');
+const { saveData, getData } = require('../utils/manipulate.json');
 
-// save data to JSON
-const saveData = (data) => {
-  const stringifiedData = JSON.stringify(data);
-  fs.writeFileSync('api/models/categories.json', stringifiedData);
-};
-
-// get data from JSON
-const getData = () => {
-  const data = fs.readFileSync('api/models/categories.json');
-  return JSON.parse(data);
-};
-
-// exported functions
-const includeCategory = (req, res, next) => {
+const includeCategory = (req, res, _) => {
   // get existing data
-  const data = getData();
+  const data = getData('categories');
 
   // get the new category
   const { categoria } = req.body;
@@ -46,7 +33,7 @@ const includeCategory = (req, res, next) => {
     descricao: categoria
   });
 
-  saveData(data);
+  saveData(data, 'categories');
 
   res.status(200).send({
     success: true,
@@ -55,13 +42,12 @@ const includeCategory = (req, res, next) => {
   return 0;
 };
 
-const deleteCategoryById = (req, res, next) => {
+const deleteCategoryById = (req, res, _) => {
   // get id from HTTP DELETE URL
   const categoryId = req.params.id;
-  console.log(categoryId);
 
   // get existing data
-  const data = getData();
+  const data = getData('categories');
 
   // filter data without categoryId
   const filteredData = data.filter(
@@ -77,7 +63,7 @@ const deleteCategoryById = (req, res, next) => {
   }
 
   // save filtered data without the informed categoryId
-  saveData(filteredData);
+  saveData(filteredData, 'categories');
 
   res.status(200).send({
     success: true,
@@ -86,12 +72,12 @@ const deleteCategoryById = (req, res, next) => {
   return 0;
 };
 
-const listCategoryById = (req, res, next) => {
+const listCategoryById = (req, res, _) => {
   // get id from HTTP GET URL
   const categoryId = req.params.id;
 
   // get existing data
-  const data = getData();
+  const data = getData('categories');
 
   // check if ID exists
   const existID = data.find((item) => Number(item.id) === Number(categoryId));
@@ -111,8 +97,8 @@ const listCategoryById = (req, res, next) => {
   return 0;
 };
 
-const listAllCategories = (req, res, next) => {
-  res.send(getData());
+const listAllCategories = (req, res, _) => {
+  res.send(getData('categories'));
 };
 
 module.exports = {

@@ -1,5 +1,5 @@
 // import controller
-const categoryController = require('../../controllers/category');
+const categoryController = require('../../controllers/category.controller');
 
 module.exports = (router) => {
   router
