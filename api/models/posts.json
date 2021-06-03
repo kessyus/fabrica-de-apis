@@ -1,1 +1,56 @@
-[{"id":1,"imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/43/82/20052140.jpg","titulo":"Os Vingadores","autor":"Stan Lee","dataPostagem":"2012-04-27","descricao":"Loki (Tom Hiddleston) retorna à Terra enviado pelos chitauri, uma raça alienígena que pretende dominar os humanos. Com a promessa de que será o soberano do planeta, ele rouba o cubo cósmico dentro de instalações da S.H.I.E.L.D. e, com isso, adquire grandes poderes. Loki os usa para controlar o dr. Erik Selvig (Stellan Skarsgard) e Clint Barton/Gavião Arqueiro (Jeremy Renner), que passam a trabalhar para ele. No intuito de contê-los, Nick Fury (Samuel L. Jackson) convoca um grupo de pessoas com grandes habilidades, mas que jamais haviam trabalhado juntas: Tony Stark/Homem de Ferro (Robert Downey Jr.), Steve Rogers/Capitão América (Chris Evans), Thor (Chris Hemsworth), Bruce Banner/Hulk (Mark Ruffalo) e Natasha Romanoff/Viúva Negra (Scarlett Johansson). Só que, apesar do grande perigo que a Terra corre, não é tão simples assim conter o ego e os interesses de cada um deles para que possam agir em grupo.","categoriaId":1},{"id":2,"imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/19/12/18/16/25/0588210.jpg","titulo":"Star Wars: A ascensão Skywalker","autor":"J.J. Abrams","dataPostagem":"2019-12-19","descricao":"Em Star Wars: A Ascensão Skywalker, com o retorno do Imperador Palpatine (Ian McDiarmid), todos voltam a temer seu poder. Assim, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força.","categoriaId":1},{"id":3,"imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/47/20224867.jpg","titulo":"O senhor dos anéis - O retorno do Rei","autor":"Peter Jackson","dataPostagem":"2003-12-25","descricao":"Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel.","categoriaId":1},{"id":4,"imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/14/10/07/22/16/591185.jpg","titulo":"O silêncio dos inocentes","autor":"Jonathan Demme","dataPostagem":"1991-05-17","descricao":"A agente do FBI, Clarice Starling (Jodie Foster) é ordenada a encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura o periogoso psicopata, Hannibal Lecter (Anthony Hopkins), encarcerado sob a acusação de canibalismo.","categoriaId":4},{"id":5,"imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/95/96/20122166.jpg","titulo":"Clube da luta","autor":"David Fincher","dataPostagem":"1999-10-29","descricao":"Jack (Edward Norton) é um executivo jovem, trabalha como investigador de seguros, mora confortavelmente, mas ele está ficando cada vez mais insatisfeito com sua vida medíocre. Para piorar ele está enfrentando uma terrível crise de insônia, até que encontra uma cura inusitada para o sua falta de sono ao frequentar grupos de auto-ajuda. Nesses encontros ele passa a conviver com pessoas problemáticas como a viciada Marla Singer (Helena Bonham Carter) e a conhecer estranhos como Tyler Durden (Brad Pitt). Misterioso e cheio de ideias, Tyler apresenta para Jack um grupo secreto que se encontra para extravasar suas angústias e tensões através de violentos combates corporais.","categoriaId":4},{"id":6,"imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/54/04/20150812.jpg","titulo":"Shrek","autor":"Andrew Adamson","dataPostagem":"2001-06-22","descricao":"Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.","categoriaId":2}]
+[
+  {
+    "id":1,
+    "imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/89/43/82/20052140.jpg",
+    "titulo":"Os Vingadores",
+    "autor":"Stan Lee",
+    "dataPostagem":"2012-04-27",
+    "descricao":"Loki (Tom Hiddleston) retorna à Terra enviado pelos chitauri, uma raça alienígena que pretende dominar os humanos. Com a promessa de que será o soberano do planeta, ele rouba o cubo cósmico dentro de instalações da S.H.I.E.L.D. e, com isso, adquire grandes poderes. Loki os usa para controlar o dr. Erik Selvig (Stellan Skarsgard) e Clint Barton/Gavião Arqueiro (Jeremy Renner), que passam a trabalhar para ele. No intuito de contê-los, Nick Fury (Samuel L. Jackson) convoca um grupo de pessoas com grandes habilidades, mas que jamais haviam trabalhado juntas: Tony Stark/Homem de Ferro (Robert Downey Jr.), Steve Rogers/Capitão América (Chris Evans), Thor (Chris Hemsworth), Bruce Banner/Hulk (Mark Ruffalo) e Natasha Romanoff/Viúva Negra (Scarlett Johansson). Só que, apesar do grande perigo que a Terra corre, não é tão simples assim conter o ego e os interesses de cada um deles para que possam agir em grupo.",
+    "categoriaId":1
+  },
+  {
+    "id":2,
+    "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/19/12/18/16/25/0588210.jpg",
+    "titulo":"Star Wars: A ascensão Skywalker",
+    "autor":"J.J. Abrams",
+    "dataPostagem":"2019-12-19",
+    "descricao":"Em Star Wars: A Ascensão Skywalker, com o retorno do Imperador Palpatine (Ian McDiarmid), todos voltam a temer seu poder. Assim, a Resistência toma a frente da batalha que ditará os rumos da galáxia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligação com Kylo Ren (Adam Driver), que também se encontra em conflito pela Força.",
+    "categoriaId":1
+  },
+  {
+    "id":3,
+    "imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/47/20224867.jpg",
+    "titulo":"O senhor dos anéis - O retorno do Rei",
+    "autor":"Peter Jackson",
+    "dataPostagem":"2003-12-25",
+    "descricao":"Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf (Ian McKellen) e Pippin (Billy Boyd) partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden (Bernard Hill) em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso Frodo (Elijah Wood), Sam (Sean Astin) e Gollum (Andy Serkins) seguem sua viagem rumo à Montanha da Perdição, para destruir o Um Anel.",
+    "categoriaId":1
+  },
+  {
+    "id":4,
+    "imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/14/10/07/22/16/591185.jpg",
+    "titulo":"O silêncio dos inocentes",
+    "autor":"Jonathan Demme",
+    "dataPostagem":"1991-05-17",
+    "descricao":"A agente do FBI, Clarice Starling (Jodie Foster) é ordenada a encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura o periogoso psicopata, Hannibal Lecter (Anthony Hopkins), encarcerado sob a acusação de canibalismo.",
+    "categoriaId":4
+  },
+  {
+    "id":5,
+    "imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/95/96/20122166.jpg",
+    "titulo":"Clube da luta",
+    "autor":"David Fincher",
+    "dataPostagem":"1999-10-29",
+    "descricao":"Jack (Edward Norton) é um executivo jovem, trabalha como investigador de seguros, mora confortavelmente, mas ele está ficando cada vez mais insatisfeito com sua vida medíocre. Para piorar ele está enfrentando uma terrível crise de insônia, até que encontra uma cura inusitada para o sua falta de sono ao frequentar grupos de auto-ajuda. Nesses encontros ele passa a conviver com pessoas problemáticas como a viciada Marla Singer (Helena Bonham Carter) e a conhecer estranhos como Tyler Durden (Brad Pitt). Misterioso e cheio de ideias, Tyler apresenta para Jack um grupo secreto que se encontra para extravasar suas angústias e tensões através de violentos combates corporais.",
+    "categoriaId":4
+  },
+  {
+    "id":6,
+    "imagem":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/54/04/20150812.jpg",
+    "titulo":"Shrek",
+    "autor":"Andrew Adamson",
+    "dataPostagem":"2001-06-22",
+    "descricao":"Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.",
+    "categoriaId":2
+  }
+]
